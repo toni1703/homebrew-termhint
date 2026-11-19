@@ -1,8 +1,8 @@
 # The Homebrew cask, as `scripts/release.sh X.Y.Z --publish` writes it into the tap
-# (github.com/toni1703/homebrew-termhint, Casks/termhint.rb) with 1.3.14 and ffd7d7515d5df3e344ea376a842a4aa8c45cdd4ebc6fb19f5655087b7b6e45f4 filled in.
+# (github.com/toni1703/homebrew-termhint, Casks/termhint.rb) with 1.4.1 and b532513935e96517fb1327610dc4dba3a2edad14e751a32327c865e2b8d3790c filled in.
 cask "termhint" do
-  version "1.3.14"
-  sha256 "ffd7d7515d5df3e344ea376a842a4aa8c45cdd4ebc6fb19f5655087b7b6e45f4"
+  version "1.4.1"
+  sha256 "b532513935e96517fb1327610dc4dba3a2edad14e751a32327c865e2b8d3790c"
 
   url "https://downloads.termhint.com/Termhint-#{version}.dmg"
   name "Termhint"
